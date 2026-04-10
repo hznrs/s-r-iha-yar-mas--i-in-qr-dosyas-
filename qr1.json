@@ -2,25 +2,25 @@
     "qr_id": 1,
     "gorev": {
         "formasyon": {
-            "aktif": False,
+            "aktif": false,
             "tip": "OKBASI"
         },
         "manevra_pitch_roll": {
-            "aktif": False,
+            "aktif": false,
             "pitch_deg": "-10",
             "roll_deg": "0"
         },
         "irtifa_degisim": {
-            "aktif": False,
+            "aktif": false,
             "deger": 20
         },
         "bekleme_suresi_s": 3
     },
     "suruden_ayrilma": {
-        "aktif": True,
+        "aktif": true,
         "ayrilacak_drone_id": 1,
-        "hedef_renk": Kirmizi,
-        "bekleme_suresi_s": None
+        "hedef_renk": "Kirmizi",
+        "bekleme_suresi_s": null
     },
     "sonraki_qr": {
         "team_1": 4,
